@@ -1,7 +1,7 @@
 # BarcodeReaderUI
 Swift/iOS Code for presenting a barcode reader using the camera
 
-<img width="964" alt="BarcodeReader UI as popover" src="https://github.com/fortesdev/BarcodeReaderUI/blob/main/barcodeReaderScreen.jpeg">
+<img width="400" alt="BarcodeReader UI as popover" src="https://github.com/fortesdev/BarcodeReaderUI/blob/main/barcodeReaderScreen.jpeg">
 
 Usage:
 
